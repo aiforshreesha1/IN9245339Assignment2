@@ -4,11 +4,12 @@ Hosted this webpage in : https://aiforshreesha1.github.io/IN9245339Assignment2 a
 ### Company Directory Portal Assignment
 - Goal: Create a Company Directory Portal using HTML and CSS that includes a registration form, employee list, employee details table, and an embedded map. Apply advanced CSS styling for a professional and responsive layout.
 - URL Reference: https://company-directory-portal.netlify.app/
-- Use the following concepts to structure and style your page similarly to the provided example:
+- Use the following concepts to structure and style your page similarly to the provided example:```
   ● Employee Registration Form
   ● Employee List
   ● Employee Details Table
   ● Embedded Map using iframe
+```
 - Steps:
 Step 1: HTML Structure
 1. Create a Basic HTML Document
