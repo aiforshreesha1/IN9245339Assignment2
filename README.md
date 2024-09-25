@@ -1,5 +1,5 @@
 Main Github Account : https://github.com/shreeshapilinja/Innomatics-Internship <br>
-Hosted this webpage in : https://aiforshreesha1.github.io/IN9245339Assignment2 and 
+Hosted this webpage in : [https://aiforshreesha1.github.io/IN9245339Assignment2](https://aiforshreesha1.github.io/IN9245339Assignment2/) and [https://innomaticsass2.netlify.app/](https://innomaticsass2.netlify.app/)
 
 ### Company Directory Portal Assignment
 ```
